@@ -9,17 +9,17 @@ With the ability to work across time zones,
 I am committed to creating engaging user experiences and staying at the forefront of industry trends.
 I`m currently looking for a job which gives me apportunity to work with a new team. 
 ```
-
-HTML/Css
-Javascript
-BootStrap
-ReactJs
-Tailwind
-vueJs
-nextJs
-NodeJs
-ExpressJs
-RestAPI / API
-Test with Jest
+# All the Tech Stack that I've learned
+- HTML/Css
+- Javascript
+- BootStrap
+- ReactJs
+- Tailwind
+- vueJs
+- nextJs
+- NodeJs
+- ExpressJs
+- RestAPI / API
+- Test with Jest
 
 💬 ask me about anything, i am happy to help;
